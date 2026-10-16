@@ -22,7 +22,7 @@
     "title": "What we value",
     "items": [
       {
-        "name": "Individual care",
+        "name": "Individual well-being",
         "desc": "Offer students accessible resources for self-reflection and self-care, supporting personal resilience and well-being."
       },
       {
@@ -30,8 +30,8 @@
         "desc": "Create space for students to share experiences, learn from one another, and offer mutual support."
       },
       {
-        "name": "Community care",
-        "desc": "Build belonging through shared stories and collective care, making mental health support a visible part of campus life."
+        "name": "Community belonging",
+        "desc": "Strengthen community through shared stories and collective care, making mental health support a visible part of campus life."
       }
     ]
   },
